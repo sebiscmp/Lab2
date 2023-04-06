@@ -1,0 +1,47 @@
+/* Some styles for text */
+h2, h3, p {
+    font-family: Verdana, sans-serif;
+}
+
+body {
+	background-color: #3f3f4e;
+	color: white;
+}
+
+h6 {
+  font-size: 16px;
+  position: relative;
+  left: 6px;
+}
+
+.small {
+    font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+    font-size: 60%;
+}
+
+/* Text Box attributes */
+.textinput {
+    width: 400px;
+    font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+    font-size: 82%;
+}
+
+/* Scroll Box attributes */
+.scrollabletextbox {
+    background-color: #e6b3ff;
+	color: black;
+    height: 300px;
+    width: 400px;
+    font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+    font-size: 82%;
+    overflow:scroll;
+}
+
+.navbar {
+	background-color: #2F2F2F;
+}
+
+.dark-mode-chatbox {
+    background-color:#534f4f;
+    color:white;
+}
